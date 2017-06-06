@@ -1,6 +1,6 @@
 /*WFR
  * Localized default methods for the jQuery validation plugin.
- * Locale: PT_BR
+ * Locale: PT_BR / Arquivo:methods_pt.js
  */
 jQuery.extend(jQuery.validator.methods, {
     date: function (value, element) {
